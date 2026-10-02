@@ -15,9 +15,19 @@
 
 ## About
 
-I'm a dad building Arc Labs on nights and weekends. The studio makes websites, web apps, browser games, and process automation, and it uses its own products to test how AI fits into real work. Discovery AI Index tracks what AI has actually helped discover, Arc Labs Studio Team packages a reusable AI team for coding agents, and Arc School is a homeschool platform for working families. These are the projects I'm working on now.
+I'm a dad building Arc Labs on nights and weekends. The studio makes websites, web apps, browser games, and process automation, and it uses its own products to test how AI fits into real work. My main focus right now is Bangers & Bash, a creator intelligence OS for X that I'm building and using on my own account first. Alongside it, Discovery AI Index tracks what AI has actually helped discover, and Arc Labs Studio Team packages a reusable AI team for coding agents.
 
 ## Featured Projects
+
+### [Bangers & Bash](https://bangersandbash.com) · current focus
+
+**The creator intelligence OS for X.**
+
+Bangers & Bash watches your account and your corner of X, tells you what is working and why, helps you write the next post in your own voice, and remembers every post so each week is smarter than the last. Claude powers the Intelligence copilot, and every claim it makes cites the posts and numbers behind it. Drafts come from your own history, not generic templates, and nothing publishes without your explicit approval. It's invite-only while I prove it on my own account; you can request early access on the site. The source is private.
+
+`TypeScript` · `React` · `Cloudflare Workers` · `D1` · `Claude API` · `X API`
+
+---
 
 ### [Discovery AI Index](https://github.com/arclabshq/discovery-ai-index)
 
@@ -43,8 +53,6 @@ The bundle uses the open Agent Skills format: one canonical `skills/` directory,
 
 ---
 
-### [Arc School](https://www.arclabshq.com/)
+## Past Projects
 
-**A parent-guided K-12 homeschool platform for working families on a condensed schedule.**
-
-Arc School is Arc Labs' flagship product, built for parents who teach around a full-time job. The source is private while it's in development.
+- **Arc School** — a parent-guided K-12 homeschool platform for working families. Retired.
